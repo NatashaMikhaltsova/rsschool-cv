@@ -1,7 +1,7 @@
 ## CV
 
 **Name:** Natallia Bisliuk  
-**Contact information:** mnatasha11 (skype), @nat_mikh (telegram)  
+**Contacts:** mnatasha11 (skype), @nat_mikh (telegram)  
 **About me:** I want to become a Front End Developer and do my best to achieve this goal  
 **Skills:** I'm a skilled in JS, HTML, CSS, WebPack, SPA  
 **Code Examples:** An example of my code (Fizz Buzz task):
